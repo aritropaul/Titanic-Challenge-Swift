@@ -67,4 +67,6 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 
+#custom
 .DS_Store
+*.csv
